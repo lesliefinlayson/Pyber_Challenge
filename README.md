@@ -10,23 +10,23 @@ The rider share data comes from two files containing information about rides, dr
 ![image](https://user-images.githubusercontent.com/84471904/126821812-163c05c6-db5d-4c9b-b897-c703592db3ef.png)
 
 
-_Total Rides_
+_Total Rides by City Type_
 
 Urban cities have the greatest number of rides.  Total number of rides for urban cities is approximately thirteen times greater than rural cities and over two times greater than suburban cities.
 
-_Total Drivers_
+_Total Drivers by City Type_
 
 Urban cities have the greatest number of drivers.  Total number of drivers for urban cities is ofver thirty times greater than rural cities and almost five times greater than suburban cities.
 
-_Total Fares_
+_Total Fares by City Type_
 
 Urban cities have the highest total fares.  Total fares generated in urban cities is almost ten times greater than rural cities and over two times greater than suburban cities.
 
-_Average Fare per Ride_
+_Average Fare per Ride by City Type_
 
 The average fare per ride is highest in rural cities.  Rural city average fare per ride is almost 12% greater than average fare per ride in suburban cities and 41% greater than the average fare per ride calculated for urban cities.
 
-_Average Fare per Driver_
+_Average Fare per Driver by City Type_
 
 The average fare per driver is highest in rural cities.  Rural city average fare per drriver is calcuated to be over 40% greater than average fare per ride in suburban cities and over three times greater than the average fare per ride for urban cities.
 
