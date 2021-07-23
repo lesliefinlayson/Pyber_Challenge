@@ -36,7 +36,11 @@ Total fares were also analyzed by city type over time, from beginning of January
 
 ![image](https://user-images.githubusercontent.com/84471904/126826030-43880390-8e0d-46e4-a150-ef375b159797.png)
 
-Tracking fares over time also shows that urban cities generated much high revenue in fares compared to urban and rural cities.  
+Tracking fares over time also shows that urban cities generated much higher revenue in fares compared to urban and rural cities.  
+
+## Summary
+
+
 
 
 
