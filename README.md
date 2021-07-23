@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-The purpose of this project is to analyze how ride share data differs by city type and to determine if any of these differences may be of value to PyBer's decision-makers. 
+The purpose of this project is to analyze how ride share data differs by city type and to determine if any of these differences may be of value to PyBer's decision-makers.  The objective of PyBer's CEO is do improve access to ride share services and determine affordability for underserved neighborhoods.   
 
 ## Results
 The rider share data comes from two files containing information about rides, drivers, fare amounts, dates and city type(rural, suburban, urban).  Combining and manipulating these fields provides further information about total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.  The results are:
