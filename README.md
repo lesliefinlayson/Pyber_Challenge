@@ -24,6 +24,11 @@ Urban cities have the highest total fares.  Total fares generated in urban citie
 
 _Average Fare per Ride_
 
-The average fare per ride is highest in rural cities.   
+The average fare per ride is highest in rural cities.  Rural city average fare per ride is almost 12% greater than average fare per ride in suburban cities and 41% greater than the average fare per ride calculated for urban cities.
+
+_Average Fare per Driver_
+
+The average fare per driver is highest in rural cities.  Rural city average fare per drriver is calcuated to be over 40% greater than average fare per ride in suburban cities and over three times greater than the average fare per ride for urban cities.
+
 
 
