@@ -2,7 +2,8 @@
 
 ## Project Purpose
 
-The purpose of this project is to analyze how ride share data differs by city type and to determine if any of these differences may be of value to PyBer's decision-makers.  The objective of PyBer's CEO is do improve access to ride share services and determine affordability for underserved neighborhoods.   
+The purpose of this project is to idenifty potential ways to improve access to ride share services and determine affordability for underserved neighborhoods by   
+analyzing how ride share data differs by city type.
 
 ## Results
 The rider share data comes from two files containing information about rides, drivers, fare amounts, dates and city type(rural, suburban, urban).  Combining and manipulating these fields provides further information about total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.  The results are:
@@ -39,6 +40,19 @@ Total fares were also analyzed by city type over time, from beginning of January
 Tracking fares over time also shows that urban cities generated much higher revenue in fares compared to urban and rural cities.  
 
 ## Summary
+
+Analysis of the rider-share data by city type shows that urban cities have both the highest access and best affordability for ride-sharing.  In contrast, rural cities have the least access and the highest cost in average fares.  
+
+To address this disparity, PyBer might consider:
+
+Beginning with rural communities, because they are the most under-served and costly:
+   •	 Bring in more drivers.  More drivers may make ride-sharing more available to more users.  
+   •	 Placing a cap on how much a fare may cost.  This might make ride-sharing more affordable and therefore more attractive to potential users.
+   •   Advertise these changes, provide incentives.  Find ways to let the public know that ride-sharing is a viable transportation option.  
+
+If actions 1 and 2 are tried and have success in rural cities, bring to suburban cities.  
+
+Further analysis may be needed to verify that these measures are cost-effective, especially if a cap is placed on fare costs.  
 
 
 
