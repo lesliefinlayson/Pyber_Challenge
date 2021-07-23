@@ -30,5 +30,9 @@ _Average Fare per Driver_
 
 The average fare per driver is highest in rural cities.  Rural city average fare per drriver is calcuated to be over 40% greater than average fare per ride in suburban cities and over three times greater than the average fare per ride for urban cities.
 
+Total fares were also analyzed by city type over time, from beginning of January through the end if April, resulting in the flollowing graph:
+![image](https://user-images.githubusercontent.com/84471904/126826030-43880390-8e0d-46e4-a150-ef375b159797.png)
+
+
 
 
