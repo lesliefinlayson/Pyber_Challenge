@@ -1,4 +1,4 @@
-# Ride Share Data Analysis by City Type
+# Ride-Share Data Analysis by City Type
 
 ## Project Purpose
 
@@ -16,7 +16,7 @@ Urban cities have the greatest number of rides.  Total number of rides for urban
 
 _Total Drivers by City Type_
 
-Urban cities have the greatest number of drivers.  Total number of drivers for urban cities is ofver thirty times greater than rural cities and almost five times greater than suburban cities.
+Urban cities have the greatest number of drivers.  Total number of drivers for urban cities is over thirty times greater than rural cities and almost five times greater than suburban cities.
 
 _Total Fares by City Type_
 
@@ -28,7 +28,7 @@ The average fare per ride is highest in rural cities.  Rural city average fare p
 
 _Average Fare per Driver by City Type_
 
-The average fare per driver is highest in rural cities.  Rural city average fare per drriver is calcuated to be over 40% greater than average fare per ride in suburban cities and over three times greater than the average fare per ride for urban cities.
+The average fare per driver is highest in rural cities.  Rural city average fare per driver is calcuated to be over 40% greater than average fare per ride in suburban cities and over three times greater than the average fare per ride for urban cities.
 
 _Total Fares Over Time by City Type_
 
@@ -44,14 +44,14 @@ Analysis of the rider-share data by city type shows that urban cities have both 
 
 To address this disparity, PyBer might consider:
 
-Beginning with rural communities, because they are the most under-served and costly:
+Beginning with rural communities, because they are the most under-served and the service is the most costly for this city type:
    •	 Bring in more drivers.  More drivers may make ride-sharing more available to more users.  
    •	 Placing a cap on how much a fare may cost.  This might make ride-sharing more affordable and therefore more attractive to potential users.
    •   Advertise these changes, provide incentives.  Find ways to let the public know that ride-sharing is a viable transportation option.  
 
-If actions 1 and 2 are tried and have success in rural cities, bring to suburban cities.  
+If actions 1 and 2 are tried and have success in rural cities, bring to suburban cities and possibly urban cities.  
 
-Further analysis may be needed to verify that these measures are cost-effective, especially if a cap is placed on fare costs.  
+Note: Further analysis may be needed to verify that these measures are cost-effective, particulary if a cap is placed on fare costs.  
 
 
 
